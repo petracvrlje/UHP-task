@@ -1,68 +1,33 @@
-.footer{
-    width:100%;
-	text-align:center;
-	overflow:hidden;
-	font-size:25px;
-	background-color:white;
-}
-.slika{
-    width:20%;
-}
-.logofooter{
-    width:100px;
-    height:100px;
-    float: left;
+
+  
+ footer h5 {
+	  font-size: 20px;
+	  line-height: 1.375;
+	  font-family: Rubik,Arial,sans-serif;
+	  font-weight: 500;
+	  text-align: center;
+	  color:#00baff;
+  }
+  
+ footer a {
+	color: #002542;
+	font-weight: 500;
+	width: 100%;
+	text-transform:uppercase;
+	display: block;
+	text-align: center;
+	background-color: transparent;
+	text-decoration: none;
+  }
+  
+ footer a:hover {
+	color: #007bff;
+	text-decoration: none;
+
+  }
  
-}
-.Company{
-    font-size:14px;
-	line-height:26px;
-    color:3399FF;
-    float:left;
-	width:20%;
-	line-height:2;
-	text-align:left;
-}
-.Company h2{
-    margin:0;
-    color:3399FF;
-}
-.Services{
-    font-size:14px;
-	line-height:26px;
-	color:#fff;
-	float:left;
-	width:20%;
-	line-height:2;
-	text-align:left;
-}
-.Services h2{
-    color:3399FF;
-    margin:0;
-}
-.Contact{
-    font-size:14px;
-	line-height:26px;
-	color:#fff;
-	float:left;
-	width:20%;
-	line-height:2;
-	text-align:left;
-}
-.Contact h2{
-    color:3399FF;
-    margin:0;
-}
-.Newsletter{
-    font-size:14px;
-	line-height:26px;
-	color:#fff;
-	float:left;
-	width:20%;
-	line-height:2;
-	text-align:left;
-}
-.Newsletter h2{
-    color:3399FF;
-    margin: 0;
-}
+  
+  footer {
+	background:white;
+	width: 100%;
+  }
